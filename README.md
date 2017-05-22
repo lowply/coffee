@@ -94,16 +94,6 @@ Twitter
 
 A very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/)
 
-## ONIBUS COFFEE - Jiyugaoka
-[Website](http://www.onibuscoffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131711/13137814/) /
-[Google Map](https://goo.gl/maps/5SR8gspFqrr) /
-[Instagram](https://www.instagram.com/onibuscoffee/) /
-[Facebook](https://www.facebook.com/onibuscoffee/) /
-Twitter
-
-They opened another shop in Nakameguro. Haven't been there, so no rating.
-
 ## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13123533/) /
@@ -113,16 +103,6 @@ Instagram /
 [Twitter](https://twitter.com/LittleNap_CS)
 
 Only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
-
-## Little Nap COFFEE ROASTERS :rocket:
-[Website](http://www.littlenap.jp/) /
-[Tabelog](https://tabelog.com/tokyo/A1318/A131810/13208059/) /
-[Google Map](https://goo.gl/maps/bXdvLxuXzvR2) /
-Instagram /
-[Facebook](https://www.facebook.com/LittleNapCOFFEESTAND) /
-[Twitter](https://twitter.com/LittleNap_CS)
-
-Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery! Haven't been there, so no rating.
 
 ## Rain On The Roof - Sangen-Jaya
 Website /
@@ -141,22 +121,6 @@ https://tabelog.com/tokyo/A1318/A131814/13061569/
 ## Ramble - Shinjuku
 https://tabelog.com/tokyo/A1304/A130401/13000865/
 
-## DOWNSTAIRS - Nogizaka
-https://tabelog.com/tokyo/A1307/A130701/13129689/
-
-## Flannel Style Coffee
-http://www.bunkamura.co.jp/cafe/index.html
-https://tabelog.com/tokyo/A1303/A130301/13038922/
-
-## Bridge COFEE&ICECREAM - Asakusa
-https://tabelog.com/tokyo/A1311/A131102/13141452/
-
-## Tengoku - Asakusa
-https://tabelog.com/tokyo/A1311/A131102/13025425/
-
-## Nishiya - Shibuya
-https://tabelog.com/tokyo/A1303/A130301/13160517/
-
 ## Mamehiko - Shibuya
 
 ## Kiazma - Zoshigaya
@@ -168,6 +132,22 @@ https://tabelog.com/tokyo/A1304/A130402/13188861/
 
 ## Switch Coffee - Meguro
 https://goo.gl/maps/FkqGdkaR55u
+
+## Streamer - Harajuku
+https://tabelog.com/tokyo/A1303/A130301/13109635/
+
+## Tajimaya - Shinjuku
+https://tabelog.com/tokyo/A1304/A130401/13000747/
+
+## Brazil - Jimbocho
+https://tabelog.com/tokyo/A1310/A131003/13011590/
+
+## Sabor - Jimbocho
+https://tabelog.com/tokyo/A1310/A131003/13000609/
+
+## Ladrio - Jimbocho
+https://tabelog.com/tokyo/A1310/A131003/13006555/
+
 
 ## Obscura - Sangen-Jaya
 Website /
@@ -224,3 +204,55 @@ Instagram /
 Twitter
 
 One of the coolest bar in Tokyo, [Tram](https://tabelog.com/tokyo/A1303/A130302/13004830/) becomes a coffee shop in the daytime. The master of this shop studied coffee at [Daibo Coffee](https://tabelog.com/tokyo/A1306/A130602/13001233/), which was very famous coffee shop but sadly closed in 2013. Haven't been there, so no rating.
+
+## FARO COFFEE & CATERING - Hongo
+https://tabelog.com/tokyo/A1310/A131004/13192447/
+https://www.facebook.com/farocoffee/
+Must visit Fire House
+
+## BE A GOOD NEIGHBOR COFFEE KIOSK - Sendagaya
+https://tabelog.com/tokyo/A1306/A130601/13116217/
+http://beagoodneighbor.net/sendagaya
+
+## Coffee Caraway - Yutenji
+https://goo.gl/maps/VkPianGqXKv
+
+## Kitayama - Iriya
+https://tabelog.com/tokyo/A1311/A131104/13016499/
+Haven't been to
+
+## DOWNSTAIRS - Nogizaka
+https://tabelog.com/tokyo/A1307/A130701/13129689/
+
+## Flannel Style Coffee
+http://www.bunkamura.co.jp/cafe/index.html
+https://tabelog.com/tokyo/A1303/A130301/13038922/
+
+## Bridge COFEE&ICECREAM - Asakusa
+https://tabelog.com/tokyo/A1311/A131102/13141452/
+
+## Tengoku - Asakusa
+https://tabelog.com/tokyo/A1311/A131102/13025425/
+
+## Nishiya - Shibuya
+https://tabelog.com/tokyo/A1303/A130301/13160517/
+
+## Little Nap COFFEE ROASTERS :rocket:
+[Website](http://www.littlenap.jp/) /
+[Tabelog](https://tabelog.com/tokyo/A1318/A131810/13208059/) /
+[Google Map](https://goo.gl/maps/bXdvLxuXzvR2) /
+Instagram /
+[Facebook](https://www.facebook.com/LittleNapCOFFEESTAND) /
+[Twitter](https://twitter.com/LittleNap_CS)
+
+Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery! Haven't been there, so no rating.
+
+## ONIBUS COFFEE - Jiyugaoka
+[Website](http://www.onibuscoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131711/13137814/) /
+[Google Map](https://goo.gl/maps/5SR8gspFqrr) /
+[Instagram](https://www.instagram.com/onibuscoffee/) /
+[Facebook](https://www.facebook.com/onibuscoffee/) /
+Twitter
+
+They opened another shop in Nakameguro. Haven't been there, so no rating.
