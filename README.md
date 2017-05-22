@@ -4,7 +4,7 @@ Hello :coffee: lovers! If you want to add a coffee stand to this list, feel free
 
 ## East Tokyo
 
-#### Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
+## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
 [Website](https://bluebottlecoffee.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1313/A131303/13177218/) /
 [Google Map](https://goo.gl/maps/zKeruisbB8s) /
@@ -16,7 +16,7 @@ They have six shops now, but only Kiyosumi Shirakawa shop seems to have a roster
 
 ## West Tokyo
 
-#### NOZY COFFEE - Mishuku :star::star::star:
+## NOZY COFFEE - Mishuku :star::star::star:
 [Website](http://www.nozycoffee.jp/index2.php) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13114599/) /
 [Google Map](https://goo.gl/maps/JupUDgDFRCB2) /
@@ -28,7 +28,7 @@ Once you get your coffee, buy some sandwiches at [the bakery in front of the caf
 
 It's a small place with few seats, so not suitable for work.
 
-#### BEAR POND ESPRESSO - Shimokitazawa :star::star::star::star:
+## BEAR POND ESPRESSO - Shimokitazawa :star::star::star::star:
 [Website](http://www.bear-pond.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131802/13093829/) /
 [Google Map](https://goo.gl/maps/S2vL8mVMF7k) /
@@ -38,7 +38,7 @@ Twitter
 
 Small, almost standing. I like [this interview article](http://www.newyorker.co.jp/magazine/lifestyle/coffee/3845/) (Sorry in Japanese!).
 
-#### PADDLERS COFFEE - Hatagaya :star::star::star::star::star:
+## PADDLERS COFFEE - Hatagaya :star::star::star::star::star:
 [Website](http://paddlerscoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131807/13181016/) /
 [Google Map](https://goo.gl/maps/DFb7Sw5EGEy) /
@@ -48,7 +48,7 @@ Twitter
 
 I love its atmosphere. The owner lived in Portland and he's bilingual.
 
-#### Sarutahiko Coffee - Ebisu :star::star:
+## Sarutahiko Coffee - Ebisu :star::star:
 [Website](http://sarutahiko.co/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13127577/) /
 Google Map /
@@ -58,7 +58,7 @@ Twitter
 
 Popular coffee shop in Tokyo. There are some shops in Tokyo, but Ebisu is the flagship.
 
-#### Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
+## Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
 [Website](http://www.fuglen.com/japanese/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13141002/) /
 [Google Map](https://goo.gl/maps/9WrLWJMunZC2) /
@@ -68,7 +68,7 @@ Popular coffee shop in Tokyo. There are some shops in Tokyo, but Ebisu is the fl
 
 This is getting super popular these days. Finding a seat is very difficult. But still you should go, this is my favorite place.
 
-#### Hatou :star::star::star: :computer:
+## Hatou :star::star::star: :computer:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130301/13001169/) /
 [Google Map](https://goo.gl/maps/rn8adDKMB3o) /
@@ -78,7 +78,7 @@ Twitter
 
 Classic Japanese style cafe. Smoking allowed for all seats, be careful.
 
-#### AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
+## AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
 [Website](http://www.amameria.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131710/13114545/) /
 [Google Map](https://goo.gl/maps/SGbFnpbNDco) /
@@ -88,7 +88,7 @@ Twitter
 
 Small coffee shop, but not so crowded. There's [a very good pizza place](https://tabelog.com/tokyo/A1317/A131710/13165472/) close to the shop.
 
-#### ABOUT LIFE COFFEE BREWERS - Shibuya :star::star::star::star:
+## ABOUT LIFE COFFEE BREWERS - Shibuya :star::star::star::star:
 [Website](http://www.about-life.coffee/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130301/13169068/) /
 [Google Map](https://goo.gl/maps/NqQxsEqo8iA2) /
@@ -98,7 +98,7 @@ Twitter
 
 A very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/)
 
-#### ONIBUS COFFEE - Jiyugaoka
+## ONIBUS COFFEE - Jiyugaoka
 [Website](http://www.onibuscoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131711/13137814/) /
 [Google Map](https://goo.gl/maps/5SR8gspFqrr) /
@@ -108,7 +108,7 @@ Twitter
 
 They opened another shop in Nakameguro. Haven't been there, so no rating.
 
-#### Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
+## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13123533/) /
 [Google Map](https://goo.gl/maps/ML6zHQwE6Mo) /
@@ -118,7 +118,7 @@ Instagram /
 
 Only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
 
-#### Little Nap COFFEE ROASTERS :rocket:
+## Little Nap COFFEE ROASTERS :rocket:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13208059/) /
 [Google Map](https://goo.gl/maps/bXdvLxuXzvR2) /
@@ -128,7 +128,7 @@ Instagram /
 
 Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery! Haven't been there, so no rating.
 
-#### Obscura
+## Obscura
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13088823/) /
 Google Map /
@@ -136,7 +136,7 @@ Instagram /
 Facebook /
 Twitter
 
-#### Obscura Laboratory
+## Obscura Laboratory
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13135145/) /
 Google Map /
@@ -144,7 +144,7 @@ Instagram /
 Facebook /
 Twitter
 
-#### COFFEE VALLEY
+## COFFEE VALLEY
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1305/A130501/13175074/) /
 Google Map /
@@ -152,7 +152,7 @@ Instagram /
 Facebook /
 Twitter
 
-#### THE ROASTERY - Harajuku
+## THE ROASTERY - Harajuku
 [Website](https://www.tysons.jp/roastery/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130301/13161140/) /
 [Google Map](https://goo.gl/maps/DPvKg9BBYz42) /
@@ -162,7 +162,7 @@ Twitter
 
 Tysons, the famous restaurant chain in Tokyo runs this shop in cooperation with Nozy Coffee. Haven't been there, so no rating.
 
-#### LATTEST - Omotesando
+## LATTEST - Omotesando
 [Website](http://www.lattest.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1306/A130602/13137443/) /
 [Google Map](https://goo.gl/maps/19fwwmivqy72) /
@@ -172,7 +172,7 @@ Twitter
 
 Haven't been there, so no rating.
 
-#### Coffee Tram - Ebisu
+## Coffee Tram - Ebisu
 [Website](http://small-axe.net/coffee/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13170379/) /
 [Google Map](https://goo.gl/maps/kc4FSCf7Win) /
