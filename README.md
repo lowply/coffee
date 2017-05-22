@@ -2,8 +2,6 @@
 
 Hello :coffee: lovers! If you want to add a coffee stand to this list, feel free to send me a pull request!
 
-## East Tokyo
-
 ## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
 [Website](https://bluebottlecoffee.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1313/A131303/13177218/) /
@@ -12,9 +10,7 @@ Hello :coffee: lovers! If you want to add a coffee stand to this list, feel free
 [Facebook](https://www.facebook.com/bluebottlecoffee) /
 [Twitter](https://twitter.com/bluebottlejapan)
 
-They have six shops now, but only Kiyosumi Shirakawa shop seems to have a roster. There might be a long queue on weekends, so be ready.
-
-## West Tokyo
+They have six shops in Tokyo now, but it seems that only Kiyosumi Shirakawa shop has a roster. There might be a long queue on weekends, so be ready.
 
 ## NOZY COFFEE - Mishuku :star::star::star:
 [Website](http://www.nozycoffee.jp/index2.php) /
@@ -128,7 +124,52 @@ Instagram /
 
 Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery! Haven't been there, so no rating.
 
-## Obscura
+## Rain On The Roof - Sangen-Jaya
+Website /
+Tabelog /
+Google Map /
+Instagram /
+Facebook /
+Twitter
+
+## Kuora - Daimon
+https://tabelog.com/tokyo/A1314/A131401/13178012/
+
+## Lowkeytone - Soshigaya Okura
+https://tabelog.com/tokyo/A1318/A131814/13061569/
+
+## Ramble - Shinjuku
+https://tabelog.com/tokyo/A1304/A130401/13000865/
+
+## DOWNSTAIRS - Nogizaka
+https://tabelog.com/tokyo/A1307/A130701/13129689/
+
+## Flannel Style Coffee
+http://www.bunkamura.co.jp/cafe/index.html
+https://tabelog.com/tokyo/A1303/A130301/13038922/
+
+## Bridge COFEE&ICECREAM - Asakusa
+https://tabelog.com/tokyo/A1311/A131102/13141452/
+
+## Tengoku - Asakusa
+https://tabelog.com/tokyo/A1311/A131102/13025425/
+
+## Nishiya - Shibuya
+https://tabelog.com/tokyo/A1303/A130301/13160517/
+
+## Mamehiko - Shibuya
+
+## Kiazma - Zoshigaya
+https://tabelog.com/tokyo/A1305/A130502/13098184/
+https://www.facebook.com/kiazuma/
+
+## Apartment - Shinjuku Gyoen
+https://tabelog.com/tokyo/A1304/A130402/13188861/
+
+## Switch Coffee - Meguro
+https://goo.gl/maps/FkqGdkaR55u
+
+## Obscura - Sangen-Jaya
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13088823/) /
 Google Map /
@@ -136,7 +177,7 @@ Instagram /
 Facebook /
 Twitter
 
-## Obscura Laboratory
+## Obscura Laboratory - Sangen-Jaya
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13135145/) /
 Google Map /
@@ -144,13 +185,15 @@ Instagram /
 Facebook /
 Twitter
 
-## COFFEE VALLEY
+## COFFEE VALLEY - Ikebukuro
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1305/A130501/13175074/) /
 Google Map /
 Instagram /
 Facebook /
 Twitter
+
+---
 
 ## THE ROASTERY - Harajuku
 [Website](https://www.tysons.jp/roastery/) /
