@@ -8,7 +8,7 @@ Hello :coffee: lovers! If you want to add a coffee stand to this list, feel free
 [Google Map](https://goo.gl/maps/zKeruisbB8s) /
 [Instagram](https://www.instagram.com/bluebottlejapan/) /
 [Facebook](https://www.facebook.com/bluebottlecoffee) /
-[Twitter](https://twitter.com/bluebottlejapan)
+Twitter
 
 They have six shops in Tokyo now, but it seems that only Kiyosumi Shirakawa shop has a roster. There might be a long queue on weekends, so be ready.
 
