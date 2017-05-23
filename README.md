@@ -102,50 +102,120 @@ Instagram /
 [Facebook](https://www.facebook.com/LittleNapCOFFEESTAND) /
 [Twitter](https://twitter.com/LittleNap_CS)
 
-Only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
+Has only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
 
-## Rain On The Roof - Sangen-Jaya
-Website /
-Tabelog /
-Google Map /
+## Rain On The Roof - Sangen-Jaya :star::star: :computer:
+[Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13037998/) /
+[Google Map](https://goo.gl/maps/TLkrwdHfjpQ2) /
 Instagram /
 Facebook /
 Twitter
 
-## Kuora - Daimon
-https://tabelog.com/tokyo/A1314/A131401/13178012/
+It's a OK level cafe, but has nice couch and good for work.
+
+## Kuora - Daimon :star::star:
+[Website](https://www.kuoracoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1314/A131401/13178012/) /
+[Google Map](https://goo.gl/maps/jDJwWue4zvv) /
+Instagram /
+Facebook /
+Twitter
+
+The closest coffee stand from GitHub Japan office.
 
 ## Lowkeytone - Soshigaya Okura
-https://tabelog.com/tokyo/A1318/A131814/13061569/
+[Website](http://lowkeytone.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1318/A131814/13061569/) /
+[Google Map](https://goo.gl/maps/Za1B2g11cB32) /
+Instagram /
+[Facebook](https://www.facebook.com/%E3%83%AD%E3%83%BC%E3%82%AD%E3%83%BC%E3%83%88%E3%83%BC%E3%83%B3%E7%8F%88%E7%90%B2%E5%BA%97-143034489092023/) /
+Twitter
 
-## Ramble - Shinjuku
-https://tabelog.com/tokyo/A1304/A130401/13000865/
+A bit far from the center of Tokyo, but if you are staying around here, it's worth trying. They also sell some coffee tools.
 
-## Mamehiko - Shibuya
+## Mamehiko - Udagawa, Shibuya :star::star::star: :computer:
+[Website](http://mamehico.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13043557/) /
+[Google Map](https://goo.gl/maps/4FbcuZhGUi72) /
+[Instagram](https://www.instagram.com/cafemamehico/) /
+Facebook /
+[Twitter](https://twitter.com/cafemamehico)
 
-## Kiazma - Zoshigaya
-https://tabelog.com/tokyo/A1305/A130502/13098184/
-https://www.facebook.com/kiazuma/
+A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is best for remote work. They have power and WiFi. There's another shop in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/)
 
-## Apartment - Shinjuku Gyoen
-https://tabelog.com/tokyo/A1304/A130402/13188861/
+## Kiazma - Zoshigaya :star::star::star:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1305/A130502/13098184/) /
+[Google Map](https://goo.gl/maps/hmqEHb38Mmz) /
+Instagram /
+[Facebook](https://www.facebook.com/kiazuma/) /
+Twitter
+
+Renovated an old house into a coffee shop. Quiet and relaxed cafe.
+
+## Apartment - Shinjuku Gyoen :star::star:
+[Website](http://apartmentcoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1304/A130402/13188861/) /
+[Google Map](https://goo.gl/maps/zvNt3ywpV9k) /
+[Instagram](https://www.instagram.com/aptmtc/) /
+[Facebook](https://www.facebook.com/aptmtc/) /
+[Twitter](https://twitter.com/apartmentcoffee)
+
+Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/13026455/) nearby.
 
 ## Switch Coffee - Meguro
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://goo.gl/maps/FkqGdkaR55u
 
 ## Streamer - Harajuku
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://tabelog.com/tokyo/A1303/A130301/13109635/
 
 ## Tajimaya - Shinjuku
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://tabelog.com/tokyo/A1304/A130401/13000747/
 
 ## Brazil - Jimbocho
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://tabelog.com/tokyo/A1310/A131003/13011590/
 
 ## Sabor - Jimbocho
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://tabelog.com/tokyo/A1310/A131003/13000609/
 
 ## Ladrio - Jimbocho
+Website /
+[Tabelog]() /
+Google Map /
+Instagram /
+Facebook /
+Twitter
 https://tabelog.com/tokyo/A1310/A131003/13006555/
 
 
@@ -206,8 +276,14 @@ Twitter
 One of the coolest bar in Tokyo, [Tram](https://tabelog.com/tokyo/A1303/A130302/13004830/) becomes a coffee shop in the daytime. The master of this shop studied coffee at [Daibo Coffee](https://tabelog.com/tokyo/A1306/A130602/13001233/), which was very famous coffee shop but sadly closed in 2013. Haven't been there, so no rating.
 
 ## FARO COFFEE & CATERING - Hongo
-https://tabelog.com/tokyo/A1310/A131004/13192447/
-https://www.facebook.com/farocoffee/
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1310/A131004/13192447/) /
+[Google Map](https://goo.gl/maps/dJHhNxaEdAz) /
+[Instagram](https://www.instagram.com/faro.coffee.and.catering/) /
+[Facebook](https://www.facebook.com/farocoffee/) /
+Twitter
+
+It's coffee is from Obscura.
 Must visit Fire House
 
 ## BE A GOOD NEIGHBOR COFFEE KIOSK - Sendagaya
@@ -256,3 +332,19 @@ Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](h
 Twitter
 
 They opened another shop in Nakameguro. Haven't been there, so no rating.
+
+## Ramble - Shinjuku
+[Website](http://www.shinjuku-chuo.com/shop/lambre/lambre.htm) /
+[Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000865/) /
+[Google Map](https://goo.gl/maps/G8hovRzWfAw) /
+Instagram /
+Facebook /
+Twitter
+
+## Lion
+[Website](http://lion.main.jp/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13001723/) /
+[Google Map](https://goo.gl/maps/SYo3xSzACFK2) /
+Instagram /
+Facebook /
+Twitter
