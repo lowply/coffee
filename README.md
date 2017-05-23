@@ -97,6 +97,16 @@ Twitter
 
 I like their espresso. It's a very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/), so you won't regret it.
 
+## Mamehiko - Udagawa, Shibuya :star::star::star: :computer:
+[Website](http://mamehico.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13043557/) /
+[Google Map](https://goo.gl/maps/4FbcuZhGUi72) /
+[Instagram](https://www.instagram.com/cafemamehico/) /
+Facebook /
+[Twitter](https://twitter.com/cafemamehico)
+
+A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is good for remote work. They have power and WiFi. There's another Mamehiko store in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/) which is also good for work.
+
 ## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13123533/) /
@@ -156,16 +166,6 @@ Instagram /
 Twitter
 
 A bit far from the center of Tokyo, but if you are staying around here, it's worth trying. They also sell some coffee tools.
-
-## Mamehiko - Udagawa, Shibuya :star::star::star: :computer:
-[Website](http://mamehico.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13043557/) /
-[Google Map](https://goo.gl/maps/4FbcuZhGUi72) /
-[Instagram](https://www.instagram.com/cafemamehico/) /
-Facebook /
-[Twitter](https://twitter.com/cafemamehico)
-
-A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is good for remote work. They have power and WiFi. There's another Mamehiko store in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/) which is also good for work.
 
 ## Kiazma - Zoshigaya :star::star::star:
 Website /
