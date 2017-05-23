@@ -37,16 +37,6 @@ Twitter
 
 Small, few seats + standing. I like [this interview article](http://www.newyorker.co.jp/magazine/lifestyle/coffee/3845/) (Sorry in Japanese!).
 
-## PADDLERS COFFEE - Hatagaya :star::star::star::star::star: :computer:
-[Website](http://paddlerscoffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131807/13181016/) /
-[Google Map](https://goo.gl/maps/DFb7Sw5EGEy) /
-[Instagram](https://www.instagram.com/paddlers_coffee/) /
-[Facebook](https://www.facebook.com/Paddlers-Coffee-132849676886888/) /
-Twitter
-
-I love its atmosphere. Calm, local, relaxed, good interior. The store is not too small but not too large.
-
 ## Sarutahiko Coffee - Ebisu :star::star: :rocket:
 [Website](http://sarutahiko.co/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13127577/) /
@@ -146,6 +136,16 @@ Facebook /
 Twitter
 
 The closest coffee stand from GitHub Japan office.
+
+## PADDLERS COFFEE - Hatagaya :star::star::star::star::star: :computer:
+[Website](http://paddlerscoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131807/13181016/) /
+[Google Map](https://goo.gl/maps/DFb7Sw5EGEy) /
+[Instagram](https://www.instagram.com/paddlers_coffee/) /
+[Facebook](https://www.facebook.com/Paddlers-Coffee-132849676886888/) /
+Twitter
+
+I love its atmosphere. Calm, local, relaxed, good interior. The store is not too small but not too large.
 
 ## LUG - Hatagaya :star::star::star: :computer:
 [Website](http://lug-hatagaya.com/) /
