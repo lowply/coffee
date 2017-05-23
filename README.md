@@ -107,6 +107,16 @@ Facebook /
 
 A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is good for remote work. They have power and WiFi. There's another Mamehiko store in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/) which is also good for work.
 
+## STREAMER COFFEE COMPANY - Shibuya :star::star::star: :rocket:
+[Website](http://streamercoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13109635/) /
+[Google Map](https://goo.gl/maps/UiMjchTc7472) /
+[Instagram](https://www.instagram.com/streamercoffeecompany/) /
+[Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
+Twitter
+
+They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minutes away.
+
 ## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13123533/) /
@@ -196,16 +206,6 @@ Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/
 [Twitter](https://twitter.com/SwitchCoffeeTKY)
 
 10 minutes walk from Meguro station, no seat, but still I like this place a lot.
-
-## STREAMER COFFEE COMPANY - Shibuya :star::star::star: :rocket:
-[Website](http://streamercoffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13109635/) /
-[Google Map](https://goo.gl/maps/UiMjchTc7472) /
-[Instagram](https://www.instagram.com/streamercoffeecompany/) /
-[Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
-Twitter
-
-They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minutes away.
 
 ## Kiokuh - Gakugei Daigaku :star::star::star::star:
 [Website](http://www.claska.com/dining_cafe/) /
