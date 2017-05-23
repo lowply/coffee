@@ -205,8 +205,17 @@ Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/
 [Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
 Twitter
 
-They have some shops in Tokyo, but Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, also 8 minute away from my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/).
+They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minute away.
 
+## Kiokuh - Gakugei Daigaku :star::star::star::star:
+[Website](http://www.claska.com/dining_cafe/) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131702/13049321/) /
+[Google Map](https://goo.gl/maps/C3kEjrHsBLC2) /
+Instagram /
+[Facebook](https://www.facebook.com/claska.tokyo/) /
+[Twitter](https://twitter.com/claska_tokyo)
+
+A cafe in one of the coolest city hotel, [CLASKA](http://www.claska.com/). No work, no roaster, but good coffee and food. I like the concept and design of the whole hotel. Kioku means "a memory" in Japanese.
 
 ## Tajimaya - Shinjuku :star::star::star: :rocket:
 [Website](http://tajimaya-coffeeten.com/) /
@@ -218,7 +227,7 @@ Facebook /
 
 Classic Japanese style cafe. They opened [a new store in Kichijoji](https://tabelog.com/tokyo/A1320/A132001/13206965/) recently.
 
-## Kanda Brazil - Jimbocho :star::star::star: :rocket:
+## Kanda Brazil - Jimbocho :star::star::star: :rocket::computer:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1310/A131003/13011590/) /
 [Google Map](https://goo.gl/maps/sKxrZqHa1zM2) /
@@ -226,7 +235,7 @@ Instagram /
 Facebook /
 Twitter
 
-Classic Japanese style cafe.
+Classic Japanese style cafe. I think you can work here.
 
 ## Sabor - Jimbocho :star::star: :computer:
 Website /
@@ -236,7 +245,7 @@ Instagram /
 Facebook /
 Twitter
 
-Popular classic Japanese style cafe. There's Sabor 2 next to Sabor, but that's more for food. Smoking allowed for all seats, don't go there if you're not comfortable with it.
+Popular classic Japanese style cafe. There's Sabor 2 next to Sabor, but that's more for food IIRC. Smoking allowed for all seats, don't go there if you're not comfortable with it.
 
 ## Ladrio - Jimbocho :star::star: :computer:
 Website /
@@ -266,7 +275,7 @@ They don't have a roaster in the store, but [they have a factory](http://obscura
 [Facebook](https://www.facebook.com/obscuracoffee) /
 Twitter
 
-This is another Obscura but no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before your coffee.
+This is another Obscura but has no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before getting a cup of coffee.
 
 ## COFFEE VALLEY - Ikebukuro :star::star::star: :rocket: :computer:
 [Website](http://coffeevalley.tumblr.com/) /
@@ -276,7 +285,7 @@ Instagram /
 Facebook /
 Twitter
 
-Good coffee stand is very rare in Ikebukuro area. Good for work.
+Good coffee stand is very rare in Ikebukuro area. Good for work, but I don't like the town, especially that area.
 
 ## Kitayama - Iriya :star::star::star::star: :rocket:
 Website /
@@ -286,7 +295,7 @@ Instagram /
 Facebook /
 Twitter
 
-:warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working with your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone fluent in Japanese. Try "Miyabi Set" - A course of three cup of coffee, 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
+:warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working on your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone who's fluent in Japanese. Then try "Miyabi Set", a combination of three cups of coffee, only costs 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
 
 ---
 
@@ -298,7 +307,7 @@ Instagram /
 Facebook /
 Twitter
 
-Tysons, the famous restaurant chain in Tokyo runs this shop in cooperation with Nozy Coffee. Haven't been there, so no rating.
+Tysons, the famous restaurant chain in Tokyo runs this shop in cooperation with Nozy Coffee.
 
 ## LATTEST - Omotesando :beginner:
 [Website](http://www.lattest.jp/) /
@@ -308,8 +317,6 @@ Tysons, the famous restaurant chain in Tokyo runs this shop in cooperation with 
 [Facebook](https://www.facebook.com/LATTEST-OMOTESANDO-Espresso-Bar--216369221785735/) /
 Twitter
 
-Haven't been there, so no rating.
-
 ## Coffee Tram - Ebisu :beginner:
 [Website](http://small-axe.net/coffee/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13170379/) /
@@ -318,7 +325,7 @@ Instagram /
 [Facebook](https://www.facebook.com/bartramtokyo/) /
 Twitter
 
-One of the coolest bar in Tokyo, [Tram](https://tabelog.com/tokyo/A1303/A130302/13004830/) becomes a coffee shop in the daytime. The master of this shop studied coffee at [Daibo Coffee](https://tabelog.com/tokyo/A1306/A130602/13001233/), which was very famous coffee shop but sadly closed in 2013. Haven't been there, so no rating.
+One of the coolest bar in Tokyo, [Tram](https://tabelog.com/tokyo/A1303/A130302/13004830/) becomes a coffee shop in the daytime. The master of this shop studied coffee at [Daibo Coffee](https://tabelog.com/tokyo/A1306/A130602/13001233/), which was very famous coffee shop but sadly closed in 2013.
 
 ## FARO COFFEE & CATERING - Hongo :beginner:
 Website /
@@ -356,7 +363,7 @@ Instagram /
 Facebook /
 Twitter
 
-
+A coffee shop in [Bunkamura](http://www.bunkamura.co.jp/). It was called Shoto-Cafe before.
 
 ## Bridge COFFEE & ICECREAM - Asakusa :beginner:
 [Website](http://brdg.jp/) /
