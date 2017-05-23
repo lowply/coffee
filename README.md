@@ -177,6 +177,16 @@ Twitter
 
 Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 
+## Tajimaya - Shinjuku :star::star::star: :rocket:
+[Website](http://tajimaya-coffeeten.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000747/) /
+[Google Map](https://goo.gl/maps/b4W3s3KLJg12) /
+Instagram /
+Facebook /
+[Twitter](https://twitter.com/tajimaya_coffee)
+
+Classic Japanese style cafe. They opened [a new store in Kichijoji](https://tabelog.com/tokyo/A1320/A132001/13206965/) recently.
+
 ## APARTMENT COFFEE - Shinjuku Gyoen :star::star:
 [Website](http://apartmentcoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1304/A130402/13188861/) /
@@ -206,16 +216,6 @@ Instagram /
 [Twitter](https://twitter.com/claska_tokyo)
 
 A cafe in one of the coolest city hotel, [CLASKA](http://www.claska.com/). No work, no roaster, but good coffee and food. I like the concept and design of the whole hotel. Kioku means "a memory" in Japanese.
-
-## Tajimaya - Shinjuku :star::star::star: :rocket:
-[Website](http://tajimaya-coffeeten.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000747/) /
-[Google Map](https://goo.gl/maps/b4W3s3KLJg12) /
-Instagram /
-Facebook /
-[Twitter](https://twitter.com/tajimaya_coffee)
-
-Classic Japanese style cafe. They opened [a new store in Kichijoji](https://tabelog.com/tokyo/A1320/A132001/13206965/) recently.
 
 ## Kanda Brazil - Jimbocho :star::star::star: :rocket::computer:
 Website /
