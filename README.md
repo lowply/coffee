@@ -47,16 +47,6 @@ Small, few seats + standing. I like [this interview article](http://www.newyorke
 
 Popular coffee chain in Tokyo. Ebisu is the flagship.
 
-## Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
-[Website](http://www.fuglen.com/japanese/) /
-[Tabelog](https://tabelog.com/tokyo/A1318/A131810/13141002/) /
-[Google Map](https://goo.gl/maps/9WrLWJMunZC2) /
-[Instagram](https://www.instagram.com/fuglentokyo/) /
-[Facebook](https://www.facebook.com/Fuglen.Tokyo/) /
-[Twitter](https://twitter.com/fuglentokyo)
-
-This is getting super popular these days, so finding a seat is very difficult. But still this is my favorite place. They also opened [a very cool Norwegian furniture store](http://www.norwegianicons.no/showroom/) next door, you should definitely check it.
-
 ## AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
 [Website](http://www.amameria.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131710/13114545/) /
@@ -106,6 +96,16 @@ A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is
 Twitter
 
 They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minutes away.
+
+## Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
+[Website](http://www.fuglen.com/japanese/) /
+[Tabelog](https://tabelog.com/tokyo/A1318/A131810/13141002/) /
+[Google Map](https://goo.gl/maps/9WrLWJMunZC2) /
+[Instagram](https://www.instagram.com/fuglentokyo/) /
+[Facebook](https://www.facebook.com/Fuglen.Tokyo/) /
+[Twitter](https://twitter.com/fuglentokyo)
+
+This is getting super popular these days, so finding a seat is very difficult. But still this is my favorite place. They also opened [a very cool Norwegian furniture store](http://www.norwegianicons.no/showroom/) next door, you should definitely check it.
 
 ## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
