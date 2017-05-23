@@ -7,7 +7,7 @@ Hello :coffee: lovers! If you're on mobile, clicking link to SNS will launch you
 [Tabelog](https://tabelog.com/tokyo/A1313/A131303/13177218/) /
 [Google Map](https://goo.gl/maps/zKeruisbB8s) /
 [Instagram](https://www.instagram.com/bluebottlejapan/) /
-[Facebook](https://www.facebook.com/bluebottlecoffee) /
+[Facebook](fb://bluebottlecoffee) /
 Twitter
 
 They have six shops in Tokyo now, but it seems that only Kiyosumi Shirakawa shop has a roster. There might be a long queue on weekends, so be ready.
