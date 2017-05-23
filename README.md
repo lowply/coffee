@@ -7,7 +7,7 @@ Hello :coffee: lovers! If you're on mobile, clicking link to SNS will launch you
 - :computer: Workable
 - :beginner: Haven't been there, no rating
 
-## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
+## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star: :rocket:
 [Website](https://bluebottlecoffee.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1313/A131303/13177218/) /
 [Google Map](https://goo.gl/maps/zKeruisbB8s) /
@@ -25,21 +25,19 @@ Instagram /
 Facebook /
 Twitter
 
-Once you get your coffee, buy some sandwiches at [the bakery in front of the cafe](https://tabelog.com/tokyo/A1317/A131706/13030788/), bring them to [Setagaya Park](https://goo.gl/maps/WyzwsFZZ3a72) and enjoy! Then for lunch or dinner, I recommend [Sun Kee](https://tabelog.com/tokyo/A1317/A131705/13007076/) for Hong Kong food or [Fungo](https://tabelog.com/tokyo/A1317/A131706/13008406/) for humbergers. Both are in this area.
-
-It's a small place with few seats, so not suitable for work.
+It's a small place with few seats, so not suitable for work. Once you get your coffee, buy some sandwiches at [the bakery in front of the cafe](https://tabelog.com/tokyo/A1317/A131706/13030788/), bring them to [Setagaya Park](https://goo.gl/maps/WyzwsFZZ3a72) and enjoy! Then for lunch or dinner, I recommend [Sun Kee](https://tabelog.com/tokyo/A1317/A131705/13007076/) for Hong Kong food or [Fungo](https://tabelog.com/tokyo/A1317/A131706/13008406/) for humbergers. Both are in this area.
 
 ## BEAR POND ESPRESSO - Shimokitazawa :star::star::star::star:
 [Website](http://www.bear-pond.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131802/13093829/) /
 [Google Map](https://goo.gl/maps/S2vL8mVMF7k) /
 Instagram /
-Facebook /
+[Facebook](https://www.facebook.com/Bear-Pond-Espresso-180813752278448) /
 Twitter
 
 Small, few seats + standing. I like [this interview article](http://www.newyorker.co.jp/magazine/lifestyle/coffee/3845/) (Sorry in Japanese!).
 
-## PADDLERS COFFEE - Hatagaya :star::star::star::star::star:
+## PADDLERS COFFEE - Hatagaya :star::star::star::star::star: :computer:
 [Website](http://paddlerscoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131807/13181016/) /
 [Google Map](https://goo.gl/maps/DFb7Sw5EGEy) /
@@ -47,7 +45,7 @@ Small, few seats + standing. I like [this interview article](http://www.newyorke
 [Facebook](https://www.facebook.com/Paddlers-Coffee-132849676886888/) /
 Twitter
 
-I love its atmosphere. The owner lived in Portland and he's bilingual.
+I love its atmosphere. Calm, local, relaxed, good interior. The store is not too small but not too large.
 
 ## Sarutahiko Coffee - Ebisu :star::star: :rocket:
 [Website](http://sarutahiko.co/) /
@@ -57,7 +55,7 @@ I love its atmosphere. The owner lived in Portland and he's bilingual.
 [Facebook](https://www.facebook.com/sarutahiko/) /
 [Twitter](https://twitter.com/sarutahikoffee)
 
-Popular coffee shop in Tokyo. There are some stores in Tokyo, but Ebisu is the flagship.
+Popular coffee chain in Tokyo. Ebisu is the flagship.
 
 ## Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
 [Website](http://www.fuglen.com/japanese/) /
@@ -67,7 +65,7 @@ Popular coffee shop in Tokyo. There are some stores in Tokyo, but Ebisu is the f
 [Facebook](https://www.facebook.com/Fuglen.Tokyo/) /
 [Twitter](https://twitter.com/fuglentokyo)
 
-This is getting super popular these days. Finding a seat is very difficult. But still you should go, this is my favorite place.
+This is getting super popular these days, so finding a seat is very difficult. But still this is my favorite place. They also opened [a very cool Norwegian furniture store](http://www.norwegianicons.no/showroom/) next door, you should definitely check it.
 
 ## Hatou :star::star::star: :computer:
 Website /
@@ -77,7 +75,7 @@ Instagram /
 Facebook /
 Twitter
 
-Classic Japanese style cafe. Smoking allowed for all seats, don't go if you're not comfortable with it.
+Classic Japanese style cafe. Their cakes are nice. Smoking allowed for all seats, don't go there if you're not comfortable with it.
 
 ## AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
 [Website](http://www.amameria.com/) /
@@ -87,7 +85,7 @@ Instagram /
 Facebook /
 Twitter
 
-Small coffee shop, but not so crowded. There's [a very good pizza place](https://tabelog.com/tokyo/A1317/A131710/13165472/) close to the shop.
+A bit far from the center of Tokyo. It's a small coffee shop, but very local and not so crowded. There's [my favorite pizza place](https://tabelog.com/tokyo/A1317/A131710/13165472/) close to the shop!
 
 ## ABOUT LIFE COFFEE BREWERS - Shibuya :star::star::star::star:
 [Website](http://www.about-life.coffee/) /
@@ -97,7 +95,7 @@ Small coffee shop, but not so crowded. There's [a very good pizza place](https:/
 [Facebook](https://www.facebook.com/aboutlifecoffee) /
 Twitter
 
-A very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/)
+I like their espresso. It's a very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/), so you won't regret it.
 
 ## Little Nap COFFEE STAND - Yoyogi Hachiman :star::star::star::star:
 [Website](http://www.littlenap.jp/) /
@@ -117,7 +115,7 @@ Instagram /
 Facebook /
 Twitter
 
-It's an OK level cafe, but has nice couch and good for work.
+It's an OK level cafe, but has nice couch and good for work. I like their interior.
 
 ## Kuora - Daimon :star:
 [Website](https://www.kuoracoffee.com/) /
@@ -129,7 +127,27 @@ Twitter
 
 The closest coffee stand from GitHub Japan office.
 
-## Lowkeytone - Soshigaya Okura :star:
+## LUG - Hatagaya :star::star::star: :computer:
+[Website](http://lug-hatagaya.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1318/A131807/13122023/) /
+[Google Map](https://goo.gl/maps/w9vjeDp92wH2) /
+[Instagram](https://www.instagram.com/lug_hatagaya/) /
+Facebook /
+Twitter
+
+My favorite Japanese cycle shop, [Blue Lug](http://bluelug.com/) started a coffee stand. Their espresso has a unique flavor, best for a latte.
+
+## Poem - Hatagaya :star: :computer:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1318/A131807/13047481/) /
+[Google Map](https://goo.gl/maps/qavzdhEY7x22) /
+Instagram /
+Facebook /
+[Twitter](https://twitter.com/poemcoffeehouse)
+
+It's an OK level, standard Japanese style cafe. They have two other stores in Tokyo. Smoking allowed for all seats, don't go there if you're not comfortable with it.
+
+## LOWKEYTONE COFFEE - Soshigaya Okura :star:
 [Website](http://lowkeytone.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131814/13061569/) /
 [Google Map](https://goo.gl/maps/Za1B2g11cB32) /
@@ -147,7 +165,7 @@ A bit far from the center of Tokyo, but if you are staying around here, it's wor
 Facebook /
 [Twitter](https://twitter.com/cafemamehico)
 
-A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is best for remote work. They have power and WiFi. There's another shop in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/)
+A bit expensive, but good quality for coffee and food. Its relaxed atmosphere is good for remote work. They have power and WiFi. There's another Mamehiko store in [Shibuya Koen-Dori](https://tabelog.com/tokyo/A1303/A130301/13155794/) which is also good for work.
 
 ## Kiazma - Zoshigaya :star::star::star:
 Website /
@@ -159,7 +177,7 @@ Twitter
 
 Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 
-## Apartment - Shinjuku Gyoen :star::star:
+## APARTMENT COFFEE - Shinjuku Gyoen :star::star:
 [Website](http://apartmentcoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1304/A130402/13188861/) /
 [Google Map](https://goo.gl/maps/zvNt3ywpV9k) /
@@ -167,9 +185,9 @@ Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 [Facebook](https://www.facebook.com/aptmtc/) /
 [Twitter](https://twitter.com/apartmentcoffee)
 
-Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/13026455/) nearby.
+Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/13026455/) nearby. Also [Shinjuku Gyoen](https://www.env.go.jp/garden/shinjukugyoen/english/), which is my favorite park in Tokyo, is close to here.
 
-## Switch Coffee - Meguro :star::star::star::star: :rocket:
+## SWITCH COFFEE TOKYO - Meguro :star::star::star::star: :rocket:
 [Website](http://www.switchcoffeetokyo.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1316/A131601/13161594/) /
 [Google Map](https://goo.gl/maps/FkqGdkaR55u) /
@@ -187,7 +205,7 @@ Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/
 [Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
 Twitter
 
-They have some shops in Tokyo, but Shibuya is the flagship. Not many seats. The [one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work.
+They have some shops in Tokyo, but Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, also 8 minute away from my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/).
 
 
 ## Tajimaya - Shinjuku :star::star::star: :rocket:
@@ -210,7 +228,7 @@ Twitter
 
 Classic Japanese style cafe.
 
-## Sabor - Jimbocho :star::star:
+## Sabor - Jimbocho :star::star: :computer:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1310/A131003/13000609/) /
 [Google Map](https://goo.gl/maps/JuXucEH47pC2) /
@@ -218,9 +236,9 @@ Instagram /
 Facebook /
 Twitter
 
-Popular classic Japanese style cafe. There's Sabor 2 next to Sabor, but that's more for food. Smoking allowed for all seats, don't go if you're not comfortable with it.
+Popular classic Japanese style cafe. There's Sabor 2 next to Sabor, but that's more for food. Smoking allowed for all seats, don't go there if you're not comfortable with it.
 
-## Ladrio - Jimbocho
+## Ladrio - Jimbocho :star::star: :computer:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1310/A131003/13006555/) /
 [Google Map](https://goo.gl/maps/iJHer4LWsjp) /
@@ -268,7 +286,7 @@ Instagram /
 Facebook /
 Twitter
 
-:warning: Only drinking a cup of coffee is allowed in this store. Reading, working, talking and taking photos are prohibited. The time you're allowed to spend here is less than 30 minutes. Better to go with someone fluent in Japanese. Please read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1)
+:warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working with your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone fluent in Japanese. Try "Miyabi Set" - A course of three cup of coffee, 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
 
 ---
 
@@ -358,7 +376,7 @@ Instagram /
 Facebook /
 Twitter
 
-The shop is famous in its pancakes. Smoking allowed for all seats, don't go if you're not comfortable with it.
+The shop is famous in its pancakes. Smoking allowed for all seats, don't go there if you're not comfortable with it.
 
 ## Nishiya - Shibuya :beginner:
 [Website](http://coffeehousenishiya.com/) /
@@ -388,7 +406,7 @@ Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](h
 [Facebook](https://www.facebook.com/onibuscoffee/) /
 Twitter
 
-Very famous coffee store in Tokyo. They opened another shop in Nakameguro.
+Very famous coffee store in Tokyo. They opened [another shop in Nakameguro](https://tabelog.com/tokyo/A1317/A131701/13191293/).
 
 ## Ramble - Shinjuku :beginner:
 [Website](http://www.shinjuku-chuo.com/shop/lambre/lambre.htm) /
@@ -408,4 +426,4 @@ Instagram /
 Facebook /
 Twitter
 
-Classic Japanese style cafe with music.　You're not allowed to talk here.
+Classic Japanese style cafe with music. You're not allowed to talk here.
