@@ -57,16 +57,6 @@ Popular coffee chain in Tokyo. Ebisu is the flagship.
 
 This is getting super popular these days, so finding a seat is very difficult. But still this is my favorite place. They also opened [a very cool Norwegian furniture store](http://www.norwegianicons.no/showroom/) next door, you should definitely check it.
 
-## Hatou :star::star::star: :computer:
-Website /
-[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13001169/) /
-[Google Map](https://goo.gl/maps/rn8adDKMB3o) /
-Instagram /
-Facebook /
-Twitter
-
-Classic Japanese style cafe. Their cakes are nice. Smoking allowed for all seats, don't go there if you're not comfortable with it.
-
 ## AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
 [Website](http://www.amameria.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131710/13114545/) /
@@ -86,6 +76,16 @@ A bit far from the center of Tokyo. It's a small coffee shop, but very local and
 Twitter
 
 I like their espresso. It's a very small coffee stand, only five seats. The director of this shop is from [Onibus Coffee](http://www.onibuscoffee.com/), so you won't regret it.
+
+## Hatou - Shibuya :star::star::star: :computer:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13001169/) /
+[Google Map](https://goo.gl/maps/rn8adDKMB3o) /
+Instagram /
+Facebook /
+Twitter
+
+Classic Japanese style cafe. Their cakes are nice. Smoking allowed for all seats, don't go there if you're not comfortable with it.
 
 ## Mamehiko - Udagawa, Shibuya :star::star::star: :computer:
 [Website](http://mamehico.com/) /
