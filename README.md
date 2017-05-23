@@ -2,10 +2,10 @@
 
 Hello :coffee: lovers! If you're on mobile, clicking link to SNS will launch your app! Feel free to open a pull request if you have a suggestion :smile:
 
-- :star: For rating
-- :rocket: If the shop have a roaster
-- :computer: If the shop allows you to work
-- :beginner: Haven't been there, so no rating
+- :star: Rate
+- :rocket: Has a roaster
+- :computer: Workable
+- :beginner: Haven't been there, no rating
 
 ## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
 [Website](https://bluebottlecoffee.jp/) /
@@ -17,7 +17,7 @@ Twitter
 
 They have six shops in Tokyo now, but it seems that only Kiyosumi Shirakawa shop has a roster. There might be a long queue on weekends, so be ready.
 
-## NOZY COFFEE - Mishuku :star::star::star:
+## NOZY COFFEE - Mishuku :star::star::star::star: :rocket:
 [Website](http://www.nozycoffee.jp/index2.php) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13114599/) /
 [Google Map](https://goo.gl/maps/JupUDgDFRCB2) /
@@ -25,7 +25,7 @@ Instagram /
 Facebook /
 Twitter
 
-Once you get your coffee, buy some sandwiches at [the bakery in front of the cafe](https://tabelog.com/tokyo/A1317/A131706/13030788/), bring it to [Setagaya Park](https://goo.gl/maps/WyzwsFZZ3a72) and enjoy them. Then for lunch or dinner, I strongly recommend [Sun Kee](https://tabelog.com/tokyo/A1317/A131705/13007076/) for Hong Kong foods or [Fungo](https://tabelog.com/tokyo/A1317/A131706/13008406/) for humbergers.  Both are in this area.
+Once you get your coffee, buy some sandwiches at [the bakery in front of the cafe](https://tabelog.com/tokyo/A1317/A131706/13030788/), bring them to [Setagaya Park](https://goo.gl/maps/WyzwsFZZ3a72) and enjoy! Then for lunch or dinner, I recommend [Sun Kee](https://tabelog.com/tokyo/A1317/A131705/13007076/) for Hong Kong food or [Fungo](https://tabelog.com/tokyo/A1317/A131706/13008406/) for humbergers. Both are in this area.
 
 It's a small place with few seats, so not suitable for work.
 
@@ -37,7 +37,7 @@ Instagram /
 Facebook /
 Twitter
 
-Small, almost standing. I like [this interview article](http://www.newyorker.co.jp/magazine/lifestyle/coffee/3845/) (Sorry in Japanese!).
+Small, few seats + standing. I like [this interview article](http://www.newyorker.co.jp/magazine/lifestyle/coffee/3845/) (Sorry in Japanese!).
 
 ## PADDLERS COFFEE - Hatagaya :star::star::star::star::star:
 [Website](http://paddlerscoffee.com/) /
@@ -49,15 +49,15 @@ Twitter
 
 I love its atmosphere. The owner lived in Portland and he's bilingual.
 
-## Sarutahiko Coffee - Ebisu :star::star:
+## Sarutahiko Coffee - Ebisu :star::star: :rocket:
 [Website](http://sarutahiko.co/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13127577/) /
-Google Map /
-Instagram /
-Facebook /
-Twitter
+[Google Map](https://goo.gl/maps/CWcpqibJ7S62) /
+[Instagram](https://www.instagram.com/sarutahikocoffee/) /
+[Facebook](https://www.facebook.com/sarutahiko/) /
+[Twitter](https://twitter.com/sarutahikoffee)
 
-Popular coffee shop in Tokyo. There are some shops in Tokyo, but Ebisu is the flagship.
+Popular coffee shop in Tokyo. There are some stores in Tokyo, but Ebisu is the flagship.
 
 ## Fuglen Tokyo - Tomigaya :star::star::star::star::star: :rocket: :computer:
 [Website](http://www.fuglen.com/japanese/) /
@@ -107,7 +107,7 @@ Instagram /
 [Facebook](https://www.facebook.com/LittleNapCOFFEESTAND) /
 [Twitter](https://twitter.com/LittleNap_CS)
 
-Has only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
+Has only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them are in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
 
 ## Rain On The Roof - Sangen-Jaya :star::star: :computer:
 [Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
@@ -260,7 +260,7 @@ Twitter
 
 Good coffee stand is very rare in Ikebukuro area. Good for work.
 
-## Kitayama - Iriya :beginner:
+## Kitayama - Iriya :star::star::star::star: :rocket:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1311/A131104/13016499/) /
 [Google Map](https://goo.gl/maps/wQWqPNCJ4ns) /
