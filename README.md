@@ -1,6 +1,6 @@
 # Tokyo's finest coffee stands
 
-Hello :coffee: lovers! If you want to add a coffee stand to this list, feel free to send me a pull request!
+Hello :coffee: lovers! If you're on mobile, clicking link to SNS will launch your app! Feel free to open a pull request if you have a suggestion :smile:
 
 ## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
 [Website](https://bluebottlecoffee.jp/) /
