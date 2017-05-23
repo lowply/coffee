@@ -117,16 +117,6 @@ Instagram /
 
 Has only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them are in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
 
-## Rain On The Roof - Sangen-Jaya :star::star: :computer:
-[Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13037998/) /
-[Google Map](https://goo.gl/maps/TLkrwdHfjpQ2) /
-Instagram /
-Facebook /
-Twitter
-
-It's an OK level cafe, but has nice couch and good for work. I like their interior.
-
 ## Kuora - Daimon :star:
 [Website](https://www.kuoracoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1314/A131401/13178012/) /
@@ -276,6 +266,17 @@ They don't have a roaster in the store, but [they have a factory](http://obscura
 Twitter
 
 This is another Obscura but has no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before getting a cup of coffee.
+
+
+## Rain On The Roof - Sangen-Jaya :star::star: :computer:
+[Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13037998/) /
+[Google Map](https://goo.gl/maps/TLkrwdHfjpQ2) /
+Instagram /
+Facebook /
+Twitter
+
+It's an OK level cafe, but has nice couch and good for work. I like their interior.
 
 ## COFFEE VALLEY - Ikebukuro :star::star::star: :rocket: :computer:
 [Website](http://coffeevalley.tumblr.com/) /
