@@ -167,16 +167,6 @@ Twitter
 
 A bit far from the center of Tokyo, but if you are staying around here, it's worth trying. They also sell some coffee tools.
 
-## Kiazma - Zoshigaya :star::star::star:
-Website /
-[Tabelog](https://tabelog.com/tokyo/A1305/A130502/13098184/) /
-[Google Map](https://goo.gl/maps/hmqEHb38Mmz) /
-Instagram /
-[Facebook](https://www.facebook.com/kiazuma/) /
-Twitter
-
-Renovated an old house into a coffee shop. Quiet and relaxed cafe.
-
 ## Tajimaya - Shinjuku :star::star::star: :rocket:
 [Website](http://tajimaya-coffeeten.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000747/) /
@@ -287,6 +277,16 @@ Facebook /
 Twitter
 
 Good coffee stand is very rare in Ikebukuro area. Good for work, but I don't like the town, especially that area.
+
+## Kiazma - Zoshigaya :star::star::star:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1305/A130502/13098184/) /
+[Google Map](https://goo.gl/maps/hmqEHb38Mmz) /
+Instagram /
+[Facebook](https://www.facebook.com/kiazuma/) /
+Twitter
+
+Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 
 ---
 
