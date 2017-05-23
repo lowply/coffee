@@ -117,16 +117,6 @@ Instagram /
 
 Has only few seats. Get a coffee, then get a burger at [ARMS](https://tabelog.com/tokyo/A1318/A131810/13019608/), then enjoy them at [Yoyogi Park](http://www.japan-guide.com/e/e3034_002.html)! All of them are in the same area. Or you can come here after having a delicious Vietnamese lunch at [Yoyonamu](https://tabelog.com/tokyo/A1318/A131810/13204833/).
 
-## Kuora - Daimon :star:
-[Website](https://www.kuoracoffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1314/A131401/13178012/) /
-[Google Map](https://goo.gl/maps/jDJwWue4zvv) /
-Instagram /
-Facebook /
-Twitter
-
-The closest coffee stand from GitHub Japan office.
-
 ## PADDLERS COFFEE - Hatagaya :star::star::star::star::star: :computer:
 [Website](http://paddlerscoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131807/13181016/) /
@@ -186,6 +176,16 @@ Classic Japanese style cafe. They opened [a new store in Kichijoji](https://tabe
 [Twitter](https://twitter.com/apartmentcoffee)
 
 Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/13026455/) nearby. Also [Shinjuku Gyoen](https://www.env.go.jp/garden/shinjukugyoen/english/), which is my favorite park in Tokyo, is close to here.
+
+## Kuora - Daimon :star:
+[Website](https://www.kuoracoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1314/A131401/13178012/) /
+[Google Map](https://goo.gl/maps/jDJwWue4zvv) /
+Instagram /
+Facebook /
+Twitter
+
+The closest coffee stand from GitHub Japan office.
 
 ## SWITCH COFFEE TOKYO - Meguro :star::star::star::star: :rocket:
 [Website](http://www.switchcoffeetokyo.com/) /
