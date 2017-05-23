@@ -2,12 +2,17 @@
 
 Hello :coffee: lovers! If you're on mobile, clicking link to SNS will launch your app! Feel free to open a pull request if you have a suggestion :smile:
 
+- :star: For rating
+- :rocket: If the shop have a roaster
+- :computer: If the shop allows you to work
+- :beginner: Haven't been there, so no rating
+
 ## Blue Bottle Coffee - Kiyosumi Shirakawa :star::star::star::star:
 [Website](https://bluebottlecoffee.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1313/A131303/13177218/) /
 [Google Map](https://goo.gl/maps/zKeruisbB8s) /
 [Instagram](https://www.instagram.com/bluebottlejapan/) /
-[Facebook](fb://bluebottlecoffee) /
+[Facebook](https://www.facebook.com/bluebottlecoffee) /
 Twitter
 
 They have six shops in Tokyo now, but it seems that only Kiyosumi Shirakawa shop has a roster. There might be a long queue on weekends, so be ready.
@@ -72,7 +77,7 @@ Instagram /
 Facebook /
 Twitter
 
-Classic Japanese style cafe. Smoking allowed for all seats, be careful.
+Classic Japanese style cafe. Smoking allowed for all seats, don't go if you're not comfortable with it.
 
 ## AMAMERIA ESPRESSO - Musashi Koyama :star::star::star: :rocket: :computer:
 [Website](http://www.amameria.com/) /
@@ -112,9 +117,9 @@ Instagram /
 Facebook /
 Twitter
 
-It's a OK level cafe, but has nice couch and good for work.
+It's an OK level cafe, but has nice couch and good for work.
 
-## Kuora - Daimon :star::star:
+## Kuora - Daimon :star:
 [Website](https://www.kuoracoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1314/A131401/13178012/) /
 [Google Map](https://goo.gl/maps/jDJwWue4zvv) /
@@ -124,7 +129,7 @@ Twitter
 
 The closest coffee stand from GitHub Japan office.
 
-## Lowkeytone - Soshigaya Okura
+## Lowkeytone - Soshigaya Okura :star:
 [Website](http://lowkeytone.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131814/13061569/) /
 [Google Map](https://goo.gl/maps/Za1B2g11cB32) /
@@ -164,88 +169,110 @@ Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 
 Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/13026455/) nearby.
 
-## Switch Coffee - Meguro
-Website /
-[Tabelog]() /
-Google Map /
-Instagram /
-Facebook /
-Twitter
-https://goo.gl/maps/FkqGdkaR55u
+## Switch Coffee - Meguro :star::star::star::star: :rocket:
+[Website](http://www.switchcoffeetokyo.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1316/A131601/13161594/) /
+[Google Map](https://goo.gl/maps/FkqGdkaR55u) /
+[Instagram](https://www.instagram.com/switchcoffeetky/) /
+[Facebook](https://www.facebook.com/switchcoffeetokyo) /
+[Twitter](https://twitter.com/SwitchCoffeeTKY)
 
-## Streamer - Harajuku
-Website /
-[Tabelog]() /
-Google Map /
-Instagram /
-Facebook /
-Twitter
-https://tabelog.com/tokyo/A1303/A130301/13109635/
+10 minutes walk from Meguro station, no seat, but still I like this place a lot.
 
-## Tajimaya - Shinjuku
-Website /
-[Tabelog]() /
-Google Map /
-Instagram /
-Facebook /
+## STREAMER COFFEE COMPANY - Shibuya :star::star::star: :rocket:
+[Website](http://streamercoffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13109635/) /
+[Google Map](https://goo.gl/maps/UiMjchTc7472) /
+[Instagram](https://www.instagram.com/streamercoffeecompany/) /
+[Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
 Twitter
-https://tabelog.com/tokyo/A1304/A130401/13000747/
 
-## Brazil - Jimbocho
-Website /
-[Tabelog]() /
-Google Map /
-Instagram /
-Facebook /
-Twitter
-https://tabelog.com/tokyo/A1310/A131003/13011590/
+They have some shops in Tokyo, but Shibuya is the flagship. Not many seats. The [one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work.
 
-## Sabor - Jimbocho
+
+## Tajimaya - Shinjuku :star::star::star: :rocket:
+[Website](http://tajimaya-coffeeten.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000747/) /
+[Google Map](https://goo.gl/maps/b4W3s3KLJg12) /
+Instagram /
+Facebook /
+[Twitter](https://twitter.com/tajimaya_coffee)
+
+Classic Japanese style cafe. They opened [a new store in Kichijoji](https://tabelog.com/tokyo/A1320/A132001/13206965/) recently.
+
+## Kanda Brazil - Jimbocho :star::star::star: :rocket:
 Website /
-[Tabelog]() /
-Google Map /
+[Tabelog](https://tabelog.com/tokyo/A1310/A131003/13011590/) /
+[Google Map](https://goo.gl/maps/sKxrZqHa1zM2) /
 Instagram /
 Facebook /
 Twitter
-https://tabelog.com/tokyo/A1310/A131003/13000609/
+
+Classic Japanese style cafe.
+
+## Sabor - Jimbocho :star::star:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1310/A131003/13000609/) /
+[Google Map](https://goo.gl/maps/JuXucEH47pC2) /
+Instagram /
+Facebook /
+Twitter
+
+Popular classic Japanese style cafe. There's Sabor 2 next to Sabor, but that's more for food. Smoking allowed for all seats, don't go if you're not comfortable with it.
 
 ## Ladrio - Jimbocho
 Website /
-[Tabelog]() /
-Google Map /
+[Tabelog](https://tabelog.com/tokyo/A1310/A131003/13006555/) /
+[Google Map](https://goo.gl/maps/iJHer4LWsjp) /
 Instagram /
 Facebook /
 Twitter
-https://tabelog.com/tokyo/A1310/A131003/13006555/
 
+Another classic Japanese style cafe in Jimbocho.
 
-## Obscura - Sangen-Jaya
-Website /
+## Obscura - Sangen-Jaya :star::star::star::star: :rocket:
+[Website](http://obscura-coffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13088823/) /
-Google Map /
-Instagram /
-Facebook /
+[Google Map](https://goo.gl/maps/sjkw6reuidq) /
+[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
+[Facebook](https://www.facebook.com/obscuracoffee) /
 Twitter
 
-## Obscura Laboratory - Sangen-Jaya
-Website /
+They don't have a roaster in the store, but [they have a factory](http://obscura-coffee.com/shop/) near the store.
+
+## Obscura Laboratory - Sangen-Jaya :star::star::star: :rocket:
+[Website](http://obscura-coffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131706/13135145/) /
-Google Map /
+[Google Map](https://goo.gl/maps/3nDNCrmeyzN2) /
+[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
+[Facebook](https://www.facebook.com/obscuracoffee) /
+Twitter
+
+This is another Obscura but no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before your coffee.
+
+## COFFEE VALLEY - Ikebukuro :star::star::star: :rocket: :computer:
+[Website](http://coffeevalley.tumblr.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1305/A130501/13175074/) /
+[Google Map](https://goo.gl/maps/VjcePZBtDtF2) /
 Instagram /
 Facebook /
 Twitter
 
-## COFFEE VALLEY - Ikebukuro
+Good coffee stand is very rare in Ikebukuro area. Good for work.
+
+## Kitayama - Iriya :beginner:
 Website /
-[Tabelog](https://tabelog.com/tokyo/A1305/A130501/13175074/) /
-Google Map /
+[Tabelog](https://tabelog.com/tokyo/A1311/A131104/13016499/) /
+[Google Map](https://goo.gl/maps/wQWqPNCJ4ns) /
 Instagram /
 Facebook /
 Twitter
+
+:warning: Only drinking a cup of coffee is allowed in this store. Reading, working, talking and taking photos are prohibited. The time you're allowed to spend here is less than 30 minutes. Better to go with someone fluent in Japanese. Please read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1)
 
 ---
 
-## THE ROASTERY - Harajuku
+## THE ROASTERY - Harajuku :beginner: :rocket:
 [Website](https://www.tysons.jp/roastery/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130301/13161140/) /
 [Google Map](https://goo.gl/maps/DPvKg9BBYz42) /
@@ -255,7 +282,7 @@ Twitter
 
 Tysons, the famous restaurant chain in Tokyo runs this shop in cooperation with Nozy Coffee. Haven't been there, so no rating.
 
-## LATTEST - Omotesando
+## LATTEST - Omotesando :beginner:
 [Website](http://www.lattest.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1306/A130602/13137443/) /
 [Google Map](https://goo.gl/maps/19fwwmivqy72) /
@@ -265,7 +292,7 @@ Twitter
 
 Haven't been there, so no rating.
 
-## Coffee Tram - Ebisu
+## Coffee Tram - Ebisu :beginner:
 [Website](http://small-axe.net/coffee/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130302/13170379/) /
 [Google Map](https://goo.gl/maps/kc4FSCf7Win) /
@@ -275,7 +302,7 @@ Twitter
 
 One of the coolest bar in Tokyo, [Tram](https://tabelog.com/tokyo/A1303/A130302/13004830/) becomes a coffee shop in the daytime. The master of this shop studied coffee at [Daibo Coffee](https://tabelog.com/tokyo/A1306/A130602/13001233/), which was very famous coffee shop but sadly closed in 2013. Haven't been there, so no rating.
 
-## FARO COFFEE & CATERING - Hongo
+## FARO COFFEE & CATERING - Hongo :beginner:
 Website /
 [Tabelog](https://tabelog.com/tokyo/A1310/A131004/13192447/) /
 [Google Map](https://goo.gl/maps/dJHhNxaEdAz) /
@@ -283,37 +310,67 @@ Website /
 [Facebook](https://www.facebook.com/farocoffee/) /
 Twitter
 
-It's coffee is from Obscura.
-Must visit Fire House
+It's coffee is from Obscura. You must visit [Fire House](https://tabelog.com/tokyo/A1310/A131004/13003538/) before coffee!
 
-## BE A GOOD NEIGHBOR COFFEE KIOSK - Sendagaya
-https://tabelog.com/tokyo/A1306/A130601/13116217/
-http://beagoodneighbor.net/sendagaya
+## BE A GOOD NEIGHBOR COFFEE KIOSK - Sendagaya :beginner:
+[Website](http://beagoodneighbor.net/sendagaya) /
+[Tabelog](https://tabelog.com/tokyo/A1306/A130601/13116217/) /
+[Google Map](https://goo.gl/maps/9MhZeUtpUdG2) /
+Instagram /
+Facebook /
+[Twitter](https://twitter.com/BAGN_CK)
 
-## Coffee Caraway - Yutenji
-https://goo.gl/maps/VkPianGqXKv
+## DOWNSTAIRS - Roppongi (Nogizaka) :beginner:
+[Website](http://www.mercedes-benz-connection.com/tokyo/downstairs.html) /
+[Tabelog](https://tabelog.com/tokyo/A1307/A130701/13129689/) /
+[Google Map](https://goo.gl/maps/WJYa8gHJA692) /
+Instagram /
+Facebook /
+Twitter
 
-## Kitayama - Iriya
-https://tabelog.com/tokyo/A1311/A131104/13016499/
-Haven't been to
+A coffee store run by Mercedes-Benz Japan.
 
-## DOWNSTAIRS - Nogizaka
-https://tabelog.com/tokyo/A1307/A130701/13129689/
+## Flannel Style Coffee - Shibuya :beginner:
+[Website](http://www.bunkamura.co.jp/cafe/index.html) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13038922/) /
+[Google Map](https://goo.gl/maps/qCk6J9FXRLR2) /
+Instagram /
+Facebook /
+Twitter
 
-## Flannel Style Coffee
-http://www.bunkamura.co.jp/cafe/index.html
-https://tabelog.com/tokyo/A1303/A130301/13038922/
 
-## Bridge COFEE&ICECREAM - Asakusa
-https://tabelog.com/tokyo/A1311/A131102/13141452/
 
-## Tengoku - Asakusa
-https://tabelog.com/tokyo/A1311/A131102/13025425/
+## Bridge COFFEE & ICECREAM - Asakusa :beginner:
+[Website](http://brdg.jp/) /
+[Tabelog](https://tabelog.com/tokyo/A1311/A131102/13141452/) /
+[Google Map](https://goo.gl/maps/Xv3z9ZLJDzP2) /
+Instagram /
+[Facebook](https://www.facebook.com/Bridge.coffee) /
+Twitter
 
-## Nishiya - Shibuya
-https://tabelog.com/tokyo/A1303/A130301/13160517/
+Produced by the owner of Little Nap COFFEE STAND. Temporary closed? Need to check in advance.
 
-## Little Nap COFFEE ROASTERS :rocket:
+## Tengoku - Asakusa :beginner:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1311/A131102/13025425/) /
+[Google Map](https://goo.gl/maps/nDqomfvqEE32) /
+Instagram /
+Facebook /
+Twitter
+
+The shop is famous in its pancakes. Smoking allowed for all seats, don't go if you're not comfortable with it.
+
+## Nishiya - Shibuya :beginner:
+[Website](http://coffeehousenishiya.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13160517/) /
+[Google Map](https://goo.gl/maps/MJbk4ExZvk42) /
+Instagram /
+[Facebook](https://www.facebook.com/coffeehousen) /
+Twitter
+
+I'd like to try their puddings.
+
+## Little Nap COFFEE ROASTERS :beginner: :rocket:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13208059/) /
 [Google Map](https://goo.gl/maps/bXdvLxuXzvR2) /
@@ -321,9 +378,9 @@ Instagram /
 [Facebook](https://www.facebook.com/LittleNapCOFFEESTAND) /
 [Twitter](https://twitter.com/LittleNap_CS)
 
-Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery! Haven't been there, so no rating.
+Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](https://tabelog.com/tokyo/A1318/A131810/13001841/), a famous bakery!
 
-## ONIBUS COFFEE - Jiyugaoka
+## ONIBUS COFFEE - Jiyugaoka :beginner:
 [Website](http://www.onibuscoffee.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1317/A131711/13137814/) /
 [Google Map](https://goo.gl/maps/5SR8gspFqrr) /
@@ -331,9 +388,9 @@ Little Nap COFFEE STAND opened a new shop with roaster, right next to [Levain](h
 [Facebook](https://www.facebook.com/onibuscoffee/) /
 Twitter
 
-They opened another shop in Nakameguro. Haven't been there, so no rating.
+Very famous coffee store in Tokyo. They opened another shop in Nakameguro.
 
-## Ramble - Shinjuku
+## Ramble - Shinjuku :beginner:
 [Website](http://www.shinjuku-chuo.com/shop/lambre/lambre.htm) /
 [Tabelog](https://tabelog.com/tokyo/A1304/A130401/13000865/) /
 [Google Map](https://goo.gl/maps/G8hovRzWfAw) /
@@ -341,10 +398,14 @@ Instagram /
 Facebook /
 Twitter
 
-## Lion
+Classic Japanese style cafe with music. 220 seats!
+
+## Lion - Shibuya :beginner:
 [Website](http://lion.main.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1303/A130301/13001723/) /
 [Google Map](https://goo.gl/maps/SYo3xSzACFK2) /
 Instagram /
 Facebook /
 Twitter
+
+Classic Japanese style cafe with music.　You're not allowed to talk here.
