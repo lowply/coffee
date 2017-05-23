@@ -27,6 +27,36 @@ Twitter
 
 It's a small place with few seats, so not suitable for work. Once you get your coffee, buy some sandwiches at [the bakery in front of the cafe](https://tabelog.com/tokyo/A1317/A131706/13030788/), bring them to [Setagaya Park](https://goo.gl/maps/WyzwsFZZ3a72) and enjoy! Then for lunch or dinner, I recommend [Sun Kee](https://tabelog.com/tokyo/A1317/A131705/13007076/) for Hong Kong food or [Fungo](https://tabelog.com/tokyo/A1317/A131706/13008406/) for humbergers. Both are in this area.
 
+## Obscura - Sangen-Jaya :star::star::star::star: :rocket:
+[Website](http://obscura-coffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13088823/) /
+[Google Map](https://goo.gl/maps/sjkw6reuidq) /
+[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
+[Facebook](https://www.facebook.com/obscuracoffee) /
+Twitter
+
+They don't have a roaster in the store, but [they have a factory](http://obscura-coffee.com/shop/) near the store.
+
+## Obscura Laboratory - Sangen-Jaya :star::star::star: :rocket:
+[Website](http://obscura-coffee.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13135145/) /
+[Google Map](https://goo.gl/maps/3nDNCrmeyzN2) /
+[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
+[Facebook](https://www.facebook.com/obscuracoffee) /
+Twitter
+
+This is another Obscura but has no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before getting a cup of coffee.
+
+## Rain On The Roof - Sangen-Jaya :star::star: :computer:
+[Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
+[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13037998/) /
+[Google Map](https://goo.gl/maps/TLkrwdHfjpQ2) /
+Instagram /
+Facebook /
+Twitter
+
+It's an OK level cafe, but has nice couch and good for work. I like their interior.
+
 ## BEAR POND ESPRESSO - Shimokitazawa :star::star::star::star:
 [Website](http://www.bear-pond.com/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131802/13093829/) /
@@ -236,37 +266,6 @@ Facebook /
 Twitter
 
 Another classic Japanese style cafe in Jimbocho.
-
-## Obscura - Sangen-Jaya :star::star::star::star: :rocket:
-[Website](http://obscura-coffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13088823/) /
-[Google Map](https://goo.gl/maps/sjkw6reuidq) /
-[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
-[Facebook](https://www.facebook.com/obscuracoffee) /
-Twitter
-
-They don't have a roaster in the store, but [they have a factory](http://obscura-coffee.com/shop/) near the store.
-
-## Obscura Laboratory - Sangen-Jaya :star::star::star: :rocket:
-[Website](http://obscura-coffee.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13135145/) /
-[Google Map](https://goo.gl/maps/3nDNCrmeyzN2) /
-[Instagram](https://www.instagram.com/obscuracoffeeroasters/) /
-[Facebook](https://www.facebook.com/obscuracoffee) /
-Twitter
-
-This is another Obscura but has no seat. There's [a super good Indian curry place](https://tabelog.com/tokyo/A1317/A131706/13151738/) nearby, you should definitely go there before getting a cup of coffee.
-
-
-## Rain On The Roof - Sangen-Jaya :star::star: :computer:
-[Website](http://renovationplanning.co.jp/portfolio_page/rain-on-the-roof) /
-[Tabelog](https://tabelog.com/tokyo/A1317/A131706/13037998/) /
-[Google Map](https://goo.gl/maps/TLkrwdHfjpQ2) /
-Instagram /
-Facebook /
-Twitter
-
-It's an OK level cafe, but has nice couch and good for work. I like their interior.
 
 ## COFFEE VALLEY - Ikebukuro :star::star::star: :rocket: :computer:
 [Website](http://coffeevalley.tumblr.com/) /
