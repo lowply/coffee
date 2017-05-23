@@ -205,7 +205,7 @@ Small shop. There's [a good Ramen shop](https://tabelog.com/tokyo/A1304/A130402/
 [Facebook](https://www.facebook.com/StreamerCoffeeCompany/) /
 Twitter
 
-They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minute away.
+They have some other stores in Tokyo, but the one in Shibuya is the flagship. Not many seats. [The one in Gohongi](https://tabelog.com/tokyo/A1317/A131702/13168558/) has more seats and good for work, and more importantly, there's my favorite Ramen place, [BIGI-YA](https://tabelog.com/tokyo/A1317/A131702/13093976/) just 8 minutes away.
 
 ## Kiokuh - Gakugei Daigaku :star::star::star::star:
 [Website](http://www.claska.com/dining_cafe/) /
