@@ -345,16 +345,6 @@ Twitter
 
 A coffee store run by Mercedes-Benz Japan.
 
-## Flannel Style Coffee - Shibuya :beginner:
-[Website](http://www.bunkamura.co.jp/cafe/index.html) /
-[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13038922/) /
-[Google Map](https://goo.gl/maps/qCk6J9FXRLR2) /
-Instagram /
-Facebook /
-Twitter
-
-A coffee shop in [Bunkamura](http://www.bunkamura.co.jp/). It was called Shoto-Cafe before.
-
 ## Bridge COFFEE & ICECREAM - Asakusa :beginner:
 [Website](http://brdg.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1311/A131102/13141452/) /
@@ -385,16 +375,6 @@ Twitter
 
 :warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working on your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone who's fluent in Japanese. Then try "Miyabi Set", a combination of three cups of coffee, only costs 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
 
-## Nishiya - Shibuya :beginner:
-[Website](http://coffeehousenishiya.com/) /
-[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13160517/) /
-[Google Map](https://goo.gl/maps/MJbk4ExZvk42) /
-Instagram /
-[Facebook](https://www.facebook.com/coffeehousen) /
-Twitter
-
-I'd like to try their puddings.
-
 ## Little Nap COFFEE ROASTERS :beginner: :rocket:
 [Website](http://www.littlenap.jp/) /
 [Tabelog](https://tabelog.com/tokyo/A1318/A131810/13208059/) /
@@ -424,6 +404,26 @@ Facebook /
 Twitter
 
 Classic Japanese style cafe with music. 220 seats!
+
+## Flannel Style Coffee - Shibuya :beginner:
+[Website](http://www.bunkamura.co.jp/cafe/index.html) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13038922/) /
+[Google Map](https://goo.gl/maps/qCk6J9FXRLR2) /
+Instagram /
+Facebook /
+Twitter
+
+A coffee shop in [Bunkamura](http://www.bunkamura.co.jp/). It was called Shoto-Cafe before.
+
+## Nishiya - Shibuya :beginner:
+[Website](http://coffeehousenishiya.com/) /
+[Tabelog](https://tabelog.com/tokyo/A1303/A130301/13160517/) /
+[Google Map](https://goo.gl/maps/MJbk4ExZvk42) /
+Instagram /
+[Facebook](https://www.facebook.com/coffeehousen) /
+Twitter
+
+I'd like to try their puddings.
 
 ## Lion - Shibuya :beginner:
 [Website](http://lion.main.jp/) /
