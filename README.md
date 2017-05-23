@@ -287,6 +287,16 @@ Twitter
 
 Renovated an old house into a coffee shop. Quiet and relaxed cafe.
 
+## Kitayama - Iriya :star::star::star::star: :rocket:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1311/A131104/13016499/) /
+[Google Map](https://goo.gl/maps/wQWqPNCJ4ns) /
+Instagram /
+Facebook /
+Twitter
+
+:warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working on your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone who's fluent in Japanese. Then try "Miyabi Set", a combination of three cups of coffee, only costs 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
+
 ---
 
 ## THE ROASTERY - Harajuku :beginner: :rocket:
@@ -364,16 +374,6 @@ Facebook /
 Twitter
 
 The shop is famous in its pancakes. Smoking allowed for all seats, don't go there if you're not comfortable with it.
-
-## Kitayama - Iriya :star::star::star::star: :rocket:
-Website /
-[Tabelog](https://tabelog.com/tokyo/A1311/A131104/13016499/) /
-[Google Map](https://goo.gl/maps/wQWqPNCJ4ns) /
-Instagram /
-Facebook /
-Twitter
-
-:warning: All you can do in this shop is to taste a cup of coffee. Reading a book, working on your laptop, chatting with your friend and taking photos are prohibited by the house rule. The time you're allowed to spend here is less than 30 minutes. Wow, yeah? Better to go with someone who's fluent in Japanese. Then try "Miyabi Set", a combination of three cups of coffee, only costs 2500 JPY. Read [this article](http://d.hatena.ne.jp/globalhead/20150410/p1) before you go (Sorry in Japanese!)
 
 ## Little Nap COFFEE ROASTERS :beginner: :rocket:
 [Website](http://www.littlenap.jp/) /
