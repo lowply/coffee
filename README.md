@@ -434,3 +434,11 @@ Facebook /
 Twitter
 
 Classic Japanese style cafe with music. You're not allowed to talk here.
+
+## ALLPRESS ESPRESSO Tokyo Roastery - Kiyosumi Shirakawa :beginner:
+[Website](https://jp.allpressespresso.com/discover/tokyo-roastery) /
+[Tabelog](https://tabelog.com/tokyo/A1313/A131303/13171360/) /
+[Google Map](https://goo.gl/maps/LJtfyPxifFP2) /
+[Instagram](https://www.instagram.com/allpressespresso/) /
+Facebook /
+Twitter
