@@ -442,3 +442,13 @@ Classic Japanese style cafe with music. You're not allowed to talk here.
 [Instagram](https://www.instagram.com/allpressespresso/) /
 Facebook /
 Twitter
+
+## ARiSE Coffee Entangle - Kiyosumi Shirakawa :beginner:
+Website /
+[Tabelog](https://tabelog.com/tokyo/A1313/A131303/13173091/) /
+[Google Map](https://goo.gl/maps/UpXdLjJBV7H2) /
+Instagram /
+Facebook /
+Twitter
+
+There's [ARiSE COFFEE ROASTERS](http://arisecoffee.jp/) near the shop
